@@ -9,7 +9,7 @@ Repository URL: https://github.com/hushh-labs/hushh_Tech_website
 - A public wrapper and integration layer around Hushh web experiences
 - A place for UI, UX, API wrapper, docs, test, and safe infrastructure contributions
 - A production-backed repository that is maintained with protected branches, CODEOWNERS review, and maintainer-controlled deploys
-
+- A Transparent and collaborative hub for improving Hushh's digital infrastructure and user experience
 ## What this repo is not
 
 - A source of production secrets, service-account keys, or private credentials
