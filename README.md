@@ -41,10 +41,10 @@ Maintainers now have an explicit OSS contribution triage flow on top of agent re
 
 See:
 
-- [Operations Reference](docs/reference/operations/README.md)
-- [Quality Reference](docs/reference/quality/README.md)
-- [Project Context Map](docs/project_context_map.md)
-- [Codex Skills](.codex/skills/README.md)
+- [Operations Reference](docs/reference/operations/README.md) How we manage the repository.
+- [Quality Reference](docs/reference/quality/README.md) Our coding and design standards.
+- [Project Context Map](docs/project_context_map.md) Understand the website structure.
+- [Codex Skills](.codex/skills/README.md) Technical skills required for this repo.
 
 ## Safe contribution areas
 
